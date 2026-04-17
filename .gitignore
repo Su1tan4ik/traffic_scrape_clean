@@ -1,0 +1,7 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+data/traffic_latest.csv    # only latest snapshot — not needed in git
+scraper.log
+cron.log
